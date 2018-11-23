@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/NeonInGame.unity
+  isLoaded: 1
+  isActive: 1
